@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities">
+        <item>Arras</item>
+        <item>Paris</item>
+        <item>Tokyo</item>
+        <item>Londres</item>
+        <item>Bruxelles</item>
+        <item>Lille</item>
+        <item>Berlin</item>
+        <item>Washington</item>
+        <item>Sydney</item>
+        <item>Moscou</item>
+    </string-array>
+</resources>

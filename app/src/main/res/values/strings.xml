@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">La METEO</string>
+    <string name="consulter">Click Pour Consulter le Temps</string>
+
+
+    <string name="temperature">Temperature:</string>
+    <string name="coucher">couchée du soleil:</string>
+    <string name="vitesse">Vitesse du vent:</string>
+    <string name="pression">Pression Atmospheric:</string>
+    <string name="direction">Direction du Vent:</string>
+    <string name="lever">Levée du Soleil:</string>
+    <string name="c">-</string>
+    <string name="city">Ville</string>
+    <string name="Country">Pays</string>
+    <string name="txthumidity">-</string>
+    <string name="hpa">-</string>
+    <string name="todo">TODO</string>
+</resources>
